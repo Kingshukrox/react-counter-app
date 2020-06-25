@@ -1,4 +1,5 @@
 # node_modules folder excluded due to size limitations on github
+run `npm install` to install all the dependencies
 # install bootstrap to see some styles used
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
